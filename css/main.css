@@ -364,9 +364,6 @@ h5 {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
 }
 
 .mainch .chiroy .left .teach1 {
@@ -405,6 +402,7 @@ h5 {
   background: #054C73;
   border-radius: 50px;
   margin-top: 30px;
+  width:228px;
 }
 
 .mainch .chiroy .right {
